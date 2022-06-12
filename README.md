@@ -1,3 +1,10 @@
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/jigsawhsi-a-network-for-hyperspectral-image/hyperspectral-image-classification-on-pavia)](https://paperswithcode.com/sota/hyperspectral-image-classification-on-pavia?p=jigsawhsi-a-network-for-hyperspectral-image)
+
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/jigsawhsi-a-network-for-hyperspectral-image/hyperspectral-image-classification-on-salinas-1)](https://paperswithcode.com/sota/hyperspectral-image-classification-on-salinas-1?p=jigsawhsi-a-network-for-hyperspectral-image)
+
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/jigsawhsi-a-network-for-hyperspectral-image/hyperspectral-image-classification-on-indian)](https://paperswithcode.com/sota/hyperspectral-image-classification-on-indian?p=jigsawhsi-a-network-for-hyperspectral-image)
+
+
 # JigsawHSI
 Application of the Jigsaw network to Hyperspectral Image (HSI) classification.
 
