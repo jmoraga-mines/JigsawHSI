@@ -129,11 +129,11 @@ The current version of the paper does not meet the standards for academic public
 
 ### Bibliography
 1. Moraga, J.; Duzgun, H.S.; Cavur, M.; Soydan, H.; Jin, G. The Geothermal Artificial Intelligence for Geothermal Exploration. Renew. Energy 2022, 192, 134–149. https://doi.org/10.1016/j.renene.2022.04.113
-2. Moraga, J. Duzgun, H.S.; Cavur, M.; Soydan; Jin, G. Geothermal Data Repository for Brady Geothermal Field. GDR 2022. Available online: https://gdr.openei.org/submissions/1304 (accessed on 15 March 2024)
-3. Moraga, J. Duzgun, H.S.; Cavur, M.; Soydan; Jin, G. Geothermal Data Repository for Desert Peak Geothermal Field. GDR 2022. Available online: https://gdr.openei.org/submissions/1305 (accessed on 15 March 2024)
+2. Moraga, J. Duzgun, H.S.; Cavur, M.; Soydan; Jin, G. Geothermal Data Repository for Brady Geothermal Field. GDR 2022. Available online: https://gdr.openei.org/submissions/1304 (accessed on 20 January 2025)
+3. Moraga, J. Duzgun, H.S.; Cavur, M.; Soydan; Jin, G. Geothermal Data Repository for Desert Peak Geothermal Field. GDR 2022. Available online: https://gdr.openei.org/submissions/1305 (accessed on accessed on 20 January 2025)
 4. Moraga, J. Geothermal AI Analysis Code. GDR 2022. Available online: https://gdr.openei.org/submissions/1307 (accessed on 15 March 2024)
 5. Moraga, J.; Duzgun, JigsawHSI: a network for Hyperspectral Image classification. arXiv 2022, arXiv:2206.02327. https://doi.org/10.48550/arXiv.2206.02327
-6. Moraga, J. Geothermal AI: An Artificial Intelligence for Early Stage Geothermal Exploration. Ph.D. Thesis, Colorado School of Mines, Golden, CO, USA, 2022. Available online: https://repository.mines.edu/entities/publication/39e4dfa1-064c-467f-bd11-44aeead47622 (accessed on 15 March 2024)
+6. Moraga, J. Geothermal AI: An Artificial Intelligence for Early Stage Geothermal Exploration. Ph.D. Thesis, Colorado School of Mines, Golden, CO, USA, 2022. Available online: https://repository.mines.edu/entities/publication/39e4dfa1-064c-467f-bd11-44aeead47622 (accessed on accessed on 20 January 2025)
 7. Moraga, J. DOE-R: Geothermal AI Implementation. GitHub Repository 2022. Available online: https://github.com/jmoraga-mines/doe-r (accessed on 20 January 2025)
 8. Moraga, J. DOE-ANN: Geothermal AI Implementation. GitHub Repository 2022. Available online: https://github.com/jmoraga-mines/doe-ann (accessed on 20 January 2025)
 9. Moraga, J. JigsawHSI: Flexible CNN for Hyperspectral Images. GitHub Repository 2022. Available online: https://github.com/jmoraga-mines/JigsawHSI (accessed on 20 January 2025)
